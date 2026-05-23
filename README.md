@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/Viking-Studios-Arma/ONI_Recon_Essentials/blob/5d17ad1523638d20144793f82f990c9eececcb5a/Falcon%20flight%20banner%20W-logo.png" alt="ONI Recon Banner Banner" />
+	<img src="https://github.com/Atlas-Commons/ONI_Recon_Essentials/blob/5d17ad1523638d20144793f82f990c9eececcb5a/Falcon%20flight%20banner%20W-logo.png" alt="ONI Recon Banner Banner" />
 	<br />
 	<a href="https://discord.gg/9pJTHHzaFC">
 		<img src="https://img.shields.io/discord/1032437213100777502.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Discord Server">
@@ -14,20 +14,20 @@
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3016023028">
 		<img src="https://img.shields.io/steam/size/3016023028?label=Download&logo=steam" alt="Download" />
 	</a>
-	<a href="https://github.com/Viking-Studios-Arma/Milsim-Tools/releases">
-		<img src="https://img.shields.io/github/release/Viking-Studios-Arma/Milsim-Tools.svg?label=Version" alt="Version" />
+	<a href="https://github.com/Atlas-Commons/Milsim-Tools/releases">
+		<img src="https://img.shields.io/github/release/Atlas-Commons/Milsim-Tools.svg?label=Version" alt="Version" />
 	</a>
-	<a href="https://github.com/Viking-Studios-Arma/Milsim-Tools/issues">
-		<img src="http://img.shields.io/github/issues-raw/Viking-Studios-Arma/Milsim-Tools.svg?label=Issues&style=flat" alt="Issues" />
+	<a href="https://github.com/Atlas-Commons/Milsim-Tools/issues">
+		<img src="http://img.shields.io/github/issues-raw/Atlas-Commons/Milsim-Tools.svg?label=Issues&style=flat" alt="Issues" />
 	</a>
-	<a href="Viking-Studios-Arma/Milsim-Tools/blob/main/LICENSE">
-		<img src="https://img.shields.io/github/license/Viking-Studios-Arma/Milsim-Tools.svg?style=flat&label=Licence" alt="License">
+	<a href="https://github.com/Atlas-Commons/Milsim-Tools/blob/main/LICENSE">
+		<img src="https://img.shields.io/github/license/Atlas-Commons/Milsim-Tools.svg?style=flat&label=Licence" alt="License">
 	</a>
 </p>
 
 <p>
 
-Adding much-needed functionality to the Arma 3 game for Milsim groups through a collection of open-source scripts we have permission to use/upload and scripts we have made or built upon. (This mod will also be the core mod of ant Milsim units that the Viking Studios team decides to make in the future)
+Adding much-needed functionality to the Arma 3 game for Milsim groups through a collection of open-source scripts we have permission to use/upload and scripts we have made or built upon. (This mod will also be the core mod of ant Milsim units that the Atlas Commons team decides to make in the future)
 
 Features include;
 - Admin Messages
@@ -76,7 +76,7 @@ Be aware, that the names of the `.bisign` and `.bikey` files depend on the lates
 ## Naming conventions
 For standardisation between class names and to prevent any possible future conflicts with class names the following naming convention has been developed:
 - for code: VS_Core
-- for presentation: Viking Studios - {Addon Name}
+- for presentation: Atlas Commons - {Addon Name}
 
 ## Credits
 
@@ -88,10 +88,22 @@ Tinter for the furniture population scripts.
 
 ## License Adjustments to be in line with Requirements from above Credits
 
-Viking Studios Vehicle Spawner is released under APL-SA
+Atlas Commons Vehicle Spawner is released under APL-SA
 
 Admin_Messages and Anything in Core which has 2BNB or Arend as an author is released under GPL2.0 (This will be specified in each file)
 
 
 </p>
 <br />
+
+---
+
+## Atlas Commons — legal notices
+
+This project is part of **Atlas Commons**, managed and financed by **Atlas Tech Solutions Ltd**. **Atlas Tech Solutions Ltd is not responsible or liable for this software** except as expressly stated in the applicable license.
+
+| Document | Purpose |
+|----------|---------|
+| [CORPORATE-LIABILITY-DISCLAIMER.md](./CORPORATE-LIABILITY-DISCLAIMER.md) | Corporate sponsor liability disclaimer |
+| [DCO](./DCO) | Developer Certificate of Origin (required for contributions) |
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | Contribution guidelines and DCO sign-off |
